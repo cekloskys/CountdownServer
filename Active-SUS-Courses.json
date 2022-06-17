@@ -1,0 +1,6792 @@
+[
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 103",
+   "courseTitle": "Financial Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 104",
+   "courseTitle": "Managerial Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 113",
+   "courseTitle": "Computerized Accounting",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 213",
+   "courseTitle": "Intermediate Accounting Theory I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 214",
+   "courseTitle": "Intermediate Accounting Theory II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 216",
+   "courseTitle": "Taxes",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 223",
+   "courseTitle": "Cost Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 281",
+   "courseTitle": "Special Topics in Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 333",
+   "courseTitle": "Auditing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 363",
+   "courseTitle": "Advanced Accounting Theory I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 364",
+   "courseTitle": "Advanced Accounting Theory II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 401",
+   "courseTitle": "Internship in Accounting",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 481",
+   "courseTitle": "Adv Special Topics in Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 490",
+   "courseTitle": "Independent Study in Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ACCT 498",
+   "courseTitle": "Senior Seminar in Accounting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 101",
+   "courseTitle": "Western Art-Prehistoric to Gothic",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 102",
+   "courseTitle": "Western Art-Early Ren to Modern",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 185",
+   "courseTitle": "17th Century Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 186",
+   "courseTitle": "18th Century Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 190",
+   "courseTitle": "American Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 191",
+   "courseTitle": "Romanticism to Post-Impressionism",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 192",
+   "courseTitle": "20th Century Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 193",
+   "courseTitle": "American Architecture",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 201",
+   "courseTitle": "Historical Survey of Women Artists",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 212",
+   "courseTitle": "Looking at Landscape Design",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 230",
+   "courseTitle": "Paris: An Urban History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 261",
+   "courseTitle": "Early Italian Renaissance Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 281",
+   "courseTitle": "Special Topics in Art History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 282",
+   "courseTitle": "Michelangelo and His Times",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 481",
+   "courseTitle": "Adv Special Topics in Art History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AH",
+   "courseCode": "ARTH 490",
+   "courseTitle": "Independent Study in Art History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 100",
+   "courseTitle": "Portfolio Review",
+   "credits": 0,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 101",
+   "courseTitle": "Portfolio Review/Studio Incamminati",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 102",
+   "courseTitle": "Introduction to Ceramics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 120",
+   "courseTitle": "Art By Heart:Mixed Media Design/Cul",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 121",
+   "courseTitle": "Introduction to Drawing Techniques",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 131",
+   "courseTitle": "Introduction to Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 134",
+   "courseTitle": "Introduction to Watercolor Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 172",
+   "courseTitle": "Color My World/Mixed Media Clr/Cul",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 202",
+   "courseTitle": "Intermediate Ceramics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 220",
+   "courseTitle": "Intermediate Art By Heart",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 221",
+   "courseTitle": "Intermediate Drawing Techniques",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 231",
+   "courseTitle": "Intermediate Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 234",
+   "courseTitle": "Intermediate Watercolor Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 272",
+   "courseTitle": "Color My World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 281",
+   "courseTitle": "Special Topics in Art Studio",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 320",
+   "courseTitle": "Advanced Art by Heart",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 321",
+   "courseTitle": "Advanced Drawing Techniques",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 331",
+   "courseTitle": "Advanced Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 334",
+   "courseTitle": "Advanced Watercolor Painting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 371",
+   "courseTitle": "Advanced Design and Mixed Media",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 481",
+   "courseTitle": "Adv Special Topics in Art Studio",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 490",
+   "courseTitle": "Independent Study in Art Studio",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 497",
+   "courseTitle": "Research Methods/Portfolio Dev't",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "AS",
+   "courseCode": "ARTS 498",
+   "courseTitle": "Senior Seminar in Art Studio",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 101",
+   "courseTitle": "Inquiry Into Life I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 103",
+   "courseTitle": "Human Biology/Allied Health Prof",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 103L",
+   "courseTitle": "Human Biology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 106",
+   "courseTitle": "Ecology and Environmental Issues",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 111",
+   "courseTitle": "Principles of Biology I",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 111L",
+   "courseTitle": "Principles of Biology I Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 125",
+   "courseTitle": "Ponds and Streams",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 125L",
+   "courseTitle": "Ponds and Streams Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 126",
+   "courseTitle": "The Biology of Cancer",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 131",
+   "courseTitle": "Environmental Seminar Series",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 145",
+   "courseTitle": "Forests and Fields",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 145L",
+   "courseTitle": "Forests and Fields Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 201",
+   "courseTitle": "Cell Biology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 201L",
+   "courseTitle": "Cell Biology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 203",
+   "courseTitle": "Human Anatomy/Physiology  I",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 203L",
+   "courseTitle": "Human Anatomy Lab  I",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 206",
+   "courseTitle": "General Zoology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 206L",
+   "courseTitle": "General Zoology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 210",
+   "courseTitle": "Nutrition",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 215",
+   "courseTitle": "Biological and Medical Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 217",
+   "courseTitle": "Genetics",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 217L",
+   "courseTitle": "Genetics Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 233",
+   "courseTitle": "Ecology and Evolutionary Biology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 233L",
+   "courseTitle": "Ecology and Evolutionary Biol Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 281",
+   "courseTitle": "Special Topics in Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 281L",
+   "courseTitle": "Special Topics Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 300",
+   "courseTitle": "Experimental Methods and Design",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 300L",
+   "courseTitle": "Experimental Methods and Design Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 303",
+   "courseTitle": "Human Anatomy and Physiology II",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 303L",
+   "courseTitle": "Human Anatomy and Physiology II Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 312",
+   "courseTitle": "Watersheds/Freshwater Ecology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 312L",
+   "courseTitle": "Watersheds/Freshwater Ecology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 322",
+   "courseTitle": "Terrestrial Ecology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 322L",
+   "courseTitle": "Terrestrial Ecology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 324",
+   "courseTitle": "Microbiology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 324L",
+   "courseTitle": "Microbiology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 325",
+   "courseTitle": "Marine Biology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 325L",
+   "courseTitle": "Marine Biology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 332",
+   "courseTitle": "Medical Terminology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 333",
+   "courseTitle": "Evolution",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 351",
+   "courseTitle": "Molecular Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 351L",
+   "courseTitle": "Molecular Biology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 360",
+   "courseTitle": "Biotechnology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 401",
+   "courseTitle": "Internship in Biology",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 410",
+   "courseTitle": "Immunology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 410L",
+   "courseTitle": "Immunology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 413",
+   "courseTitle": "Conservation/Restoration Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 413L",
+   "courseTitle": "Conservation/Restoration Bio Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 430",
+   "courseTitle": "Forensic Medicine",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 440",
+   "courseTitle": "Medical and Molecular Virology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 445",
+   "courseTitle": "The Cure: From Bench to Bedside",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 481",
+   "courseTitle": "Advanced Special Topics in Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 481L",
+   "courseTitle": "Advanced Special Topics in Bio Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 490",
+   "courseTitle": "Independent Study in Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BI",
+   "courseCode": "BIOL 498",
+   "courseTitle": "Senior Seminar in Biology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 101",
+   "courseTitle": "International Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 102",
+   "courseTitle": "Business Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 104",
+   "courseTitle": "Introduction to Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 120",
+   "courseTitle": "Law and the Business Enterprise",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 252",
+   "courseTitle": "Business of Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 270",
+   "courseTitle": "Business Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 281",
+   "courseTitle": "Special Topics in Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 401",
+   "courseTitle": "Internship in Business",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 402",
+   "courseTitle": "Internship in Business",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 481",
+   "courseTitle": "Advanced Special Topics in Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 490",
+   "courseTitle": "Independent Study in Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "BUSN 498",
+   "courseTitle": "Senior Seminar in Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "",
+   "courseCode": "C2C  APPR",
+   "courseTitle": "Core-To-Core (Approved)",
+   "credits": 0,
+   "creditTypeCode": ""
+ },
+ {
+   "divisionCode": "FY",
+   "courseCode": "CARE 101",
+   "courseTitle": "Career Connections",
+   "credits": 1,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FY",
+   "courseCode": "CARE 401",
+   "courseTitle": "Internship",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 103",
+   "courseTitle": "Science and Public Policy",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 103L",
+   "courseTitle": "Science and Public Policy Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 106",
+   "courseTitle": "Introduction to Forensic Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 131",
+   "courseTitle": "Principles of Chemistry I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 131L",
+   "courseTitle": "Principles of Chemistry I Lab",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 132",
+   "courseTitle": "Principles of Chemistry II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 132L",
+   "courseTitle": "Principles of Chemistry II Lab",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 215",
+   "courseTitle": "Organic Chemistry I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 215L",
+   "courseTitle": "Organic Chemistry I Lab",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 216",
+   "courseTitle": "Organic Chemistry II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 216L",
+   "courseTitle": "Organic Chemistry II Lab",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 222",
+   "courseTitle": "Toxicology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 230",
+   "courseTitle": "Internship Seminar",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 242",
+   "courseTitle": "Environmental Chemistry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 250",
+   "courseTitle": "Introduction to Biochemistry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 301",
+   "courseTitle": "Analytical Chemistry",
+   "credits": 5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 301L",
+   "courseTitle": "Analytical Chemistry Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 303",
+   "courseTitle": "Instrumental Analysis",
+   "credits": 5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 303L",
+   "courseTitle": "Instrumental Analysis Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 307",
+   "courseTitle": "Biochemistry I",
+   "credits": 5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 307L",
+   "courseTitle": "Biochemistry I Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 308",
+   "courseTitle": "Biochemistry II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 313",
+   "courseTitle": "Physical Chemistry I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 314",
+   "courseTitle": "Physical Chemistry II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 314L",
+   "courseTitle": "Physical Chemistry II Lab",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 340",
+   "courseTitle": "Inorganic Chemistry",
+   "credits": 5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 340L",
+   "courseTitle": "Inorganic Chemistry Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 401",
+   "courseTitle": "Internship in Chemistry",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 405",
+   "courseTitle": "Advanced Organic Chemistry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 481",
+   "courseTitle": "Special Topics in Chemistry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 490",
+   "courseTitle": "Independent Study in Chemistry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "CHEM 498",
+   "courseTitle": "Senior Seminar/Chem-Biochem-For Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "CLCV 151",
+   "courseTitle": "Quests and Adventures",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "CLCV 153",
+   "courseTitle": "Mythology as a Living Tradition",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "CLCV 281",
+   "courseTitle": "Sp Topics/Classical Civilization",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 105",
+   "courseTitle": "Digital Forensics I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 140",
+   "courseTitle": "Legal Issues I (Digital Forensics)",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 205",
+   "courseTitle": "Digital Forensics II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 240",
+   "courseTitle": "Legal Issues II (Digital Forensics)",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 281",
+   "courseTitle": "Special Topics in Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 300",
+   "courseTitle": "Advanced Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 311",
+   "courseTitle": "Research Methods/Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 320",
+   "courseTitle": "Laboratory/Technical Writing in DF",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 375",
+   "courseTitle": "Simulated Workplace Lab",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 401",
+   "courseTitle": "Internship in Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 481",
+   "courseTitle": "Adv Spl Topics in Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 490",
+   "courseTitle": "Independent Study in Dig Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMDF 498",
+   "courseTitle": "Senior Seminar in Digital Forensics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 190",
+   "courseTitle": "Introduction to Python Programming",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 200",
+   "courseTitle": "Introduction to Programming I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 201",
+   "courseTitle": "Introduction to Programming II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 205",
+   "courseTitle": "Systems Analysis and Design",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 251",
+   "courseTitle": "Data Structures",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 255",
+   "courseTitle": "Team Programming Techniques",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 279",
+   "courseTitle": "CS History/Trends/Ethical Issues",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 281",
+   "courseTitle": "Special Topics in Comp/Info Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 285",
+   "courseTitle": "Algorithms in AI and Robotics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 300",
+   "courseTitle": "Application Development and Design",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 305",
+   "courseTitle": "Mobile Application Development",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 311",
+   "courseTitle": "Research Methods/Comp and Info Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 350",
+   "courseTitle": "Computer Architecture/Logic Design",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 375",
+   "courseTitle": "Simulated Workplace Lab",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 401",
+   "courseTitle": "Internship in Comp and Info Sci",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 405",
+   "courseTitle": "Programming Languages",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 481",
+   "courseTitle": "Adv Special Topics in Comp/Info Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 490",
+   "courseTitle": "Independent Study in Comp Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSC 498",
+   "courseTitle": "Senior Seminar: Comp and Info Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 281",
+   "courseTitle": "Special Topics in Computer Sys Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 285",
+   "courseTitle": "Management Information Systems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 311",
+   "courseTitle": "Research Methods/Comp Syst Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 375",
+   "courseTitle": "Simulated Workplace Lab",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 401",
+   "courseTitle": "Internship in Computer Sys Mgmt",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 481",
+   "courseTitle": "Adv Special Topics in Comp Sys Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 490",
+   "courseTitle": "Independent Study in Comp Sys Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMSM 498",
+   "courseTitle": "Senior Seminar in Computer Sys Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 103",
+   "courseTitle": "Introduction to Microsoft Excel",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 190",
+   "courseTitle": "Intro to Comp Hardware/Peripherals",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 195",
+   "courseTitle": "Introduction to Computer Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 200",
+   "courseTitle": "Intro to Web Development and Design",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 201",
+   "courseTitle": "Designing Websites",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 203",
+   "courseTitle": "Data Analysis Using Microsoft Excel",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 210",
+   "courseTitle": "Comp Graphics Design/Photoshop",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 230",
+   "courseTitle": "Introduction to Data Communications",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 255",
+   "courseTitle": "Web Content Management Systems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 260",
+   "courseTitle": "Applied Operating Systems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 275",
+   "courseTitle": "HTML and CSS",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 281",
+   "courseTitle": "Special Topics in Comp/Info Tech",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 284",
+   "courseTitle": "Intro/Database Design & Development",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 295",
+   "courseTitle": "Web Programming",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 311",
+   "courseTitle": "Research Methods/Comp and Info Tech",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 335",
+   "courseTitle": "Responsive Design",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 375",
+   "courseTitle": "Simulated Workplace Lab",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 401",
+   "courseTitle": "Internship in Comp and Info Tech",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 481",
+   "courseTitle": "Adv Spec Topics in Comp/Info Tech",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 490",
+   "courseTitle": "Independent Study in Info Tech",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CMTC 498",
+   "courseTitle": "Senior Seminar in Comp/Info Tech",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "",
+   "courseCode": "CORE MET",
+   "courseTitle": "Core-To-Core (Not Required)",
+   "credits": 0,
+   "creditTypeCode": "SW"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 120",
+   "courseTitle": "Intro to Restorative Practices",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 122",
+   "courseTitle": "Introduction to Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 175",
+   "courseTitle": "US Constitution Immersion Exp",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 200",
+   "courseTitle": "World Justice and Care for Children",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 201",
+   "courseTitle": "Crime and Punishment Through Film",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 210",
+   "courseTitle": "Gender and the Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 215",
+   "courseTitle": "Ethics in Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 220",
+   "courseTitle": "Juvenile Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 223",
+   "courseTitle": "Criminal Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 224",
+   "courseTitle": "Criminal Investigation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 225",
+   "courseTitle": "Criminal Procedure",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 226",
+   "courseTitle": "Deviance and Social Control",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 227",
+   "courseTitle": "Corrections",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 230",
+   "courseTitle": "Juvenile Delinquency",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 235",
+   "courseTitle": "White Collar Crime",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 237",
+   "courseTitle": "Victimology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 245",
+   "courseTitle": "Inside-Out",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 245L",
+   "courseTitle": "Inside-Out Lab",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 281",
+   "courseTitle": "Special Topics in Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 302",
+   "courseTitle": "Social Science Research Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 321",
+   "courseTitle": "Criminology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 322",
+   "courseTitle": "Sex Crimes",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 325",
+   "courseTitle": "Restorative Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 401",
+   "courseTitle": "Internship in Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 402",
+   "courseTitle": "Internship in Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 403",
+   "courseTitle": "Professional Internship Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 481",
+   "courseTitle": "Adv Special Topics/Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 490",
+   "courseTitle": "Independent Study in Crim Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "CRJU 498",
+   "courseTitle": "Senior Seminar in Criminal Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 140",
+   "courseTitle": "Legal Issues in Cyber Security",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 235",
+   "courseTitle": "Introduction to Cybersecurity",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 270",
+   "courseTitle": "Linux Operating System in Security",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 275",
+   "courseTitle": "IPv6 / Networking and Security",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 280",
+   "courseTitle": "Investigating Network Artifacts",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 285",
+   "courseTitle": "Applied Cryptography",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 311",
+   "courseTitle": "Research Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 361",
+   "courseTitle": "Security & Defense I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 362",
+   "courseTitle": "Security & Defense II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 375",
+   "courseTitle": "Simulated Workplace Lab",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 384",
+   "courseTitle": "Database Security",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 401",
+   "courseTitle": "Internship in Cybersecurity",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 481",
+   "courseTitle": "Adv Spl Topics in Cybersecurity",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 490",
+   "courseTitle": "Independent Study in Cybersecurity",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CS",
+   "courseCode": "CSEC 498",
+   "courseTitle": "Senior Seminar in Cybersecurity",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "DSSG 110",
+   "courseTitle": "Introduction to Data Studies",
+   "credits": 1.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "DSSG 398",
+   "courseTitle": "Capstone in Data Studies",
+   "credits": 1.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 101",
+   "courseTitle": "Macroeconomic Principles",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 102",
+   "courseTitle": "Microeconomic Principles",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 201",
+   "courseTitle": "Principles/Finance: Money/Banking",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 211",
+   "courseTitle": "Introduction to Global Economics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 312",
+   "courseTitle": "History of Economic Thought",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "ECON 490",
+   "courseTitle": "Independent Study in Economics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 220",
+   "courseTitle": "Montessori Philosophy/Edu Theory",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 221",
+   "courseTitle": "Montessori Everyday Living/Art",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 222",
+   "courseTitle": "Montessori Sensorial/Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 223",
+   "courseTitle": "Montessori Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 224",
+   "courseTitle": "Montessori Language",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 225",
+   "courseTitle": "Montessori Natural/Social Sciences",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 226",
+   "courseTitle": "Montessori Education for Peace",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 430",
+   "courseTitle": "Montessori Fall Internship",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 431",
+   "courseTitle": "Montessori Fall Seminar",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 432",
+   "courseTitle": "Montessori Spring Internship",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDMN 433",
+   "courseTitle": "Montessori Spring Seminar",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 204",
+   "courseTitle": "Early Education Methods/Techniques",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 207",
+   "courseTitle": "Reading Methods and Assessment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 281",
+   "courseTitle": "Special Topics in Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 301",
+   "courseTitle": "Health and Safety Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 312",
+   "courseTitle": "Write and Create Arts Mthds & Assmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 315",
+   "courseTitle": "Math Methods/Assessment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 316",
+   "courseTitle": "Social Studies Methods/Assessment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 317",
+   "courseTitle": "Science Methods/Assessment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 318",
+   "courseTitle": "Family and Community Partners",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 321",
+   "courseTitle": "Class Mgt/Appl Instr/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 420",
+   "courseTitle": "Clinical Field Exp/Student Teaching",
+   "credits": 9,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 421",
+   "courseTitle": "Clinical/Student Teaching Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDP4 490",
+   "courseTitle": "Independent Study in Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 315",
+   "courseTitle": "General Methods in Secondary Ed",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 317",
+   "courseTitle": "Sp Methods/English/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 318",
+   "courseTitle": "Sp Methods/Soc St/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 326",
+   "courseTitle": "Sp Methods/Biology/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 327",
+   "courseTitle": "Sp Methods/Chemistry/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 328",
+   "courseTitle": "Sp Methods/For Lang/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 329",
+   "courseTitle": "Sp Methods/Math/Field Exp IIIA",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 420",
+   "courseTitle": "Clinical Field Exp/Student Teaching",
+   "credits": 9,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSC 421",
+   "courseTitle": "Clinical/Student Teaching Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 215",
+   "courseTitle": "Early Intervention/Children w/Disab",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 216",
+   "courseTitle": "Transitions in Special Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 245",
+   "courseTitle": "Assistive Tech/Std w/Disabilities",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 327",
+   "courseTitle": "Physical/Health/Comm Disabilities",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 340",
+   "courseTitle": "Introduction to Special Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 347",
+   "courseTitle": "Assessments/Intrv for all Learners",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 355",
+   "courseTitle": "Instr/Inclusive Env/Field Exp IIIB",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 362",
+   "courseTitle": "Teaching Reading for all Learners",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 374",
+   "courseTitle": "Educ Practices Stds w/Disabilities",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 390",
+   "courseTitle": "ELL Foundations and Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 420",
+   "courseTitle": "Clinical Field Exp/Student Teaching",
+   "credits": 9,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDSP 421",
+   "courseTitle": "Clinical/Student Teaching Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 201",
+   "courseTitle": "Child & Adolescent Developmet FE I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 203",
+   "courseTitle": "Foundations of Education (FE II)",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 360",
+   "courseTitle": "Educational Research and Analysis",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 481",
+   "courseTitle": "Advanced Special Topics/Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 490",
+   "courseTitle": "Independent Study in Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ED",
+   "courseCode": "EDUC 498",
+   "courseTitle": "Senior Seminar in Education",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 100",
+   "courseTitle": "Essay Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 101",
+   "courseTitle": "College Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 105",
+   "courseTitle": "Advanced College Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 106",
+   "courseTitle": "Magazine Workshop",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 110",
+   "courseTitle": "Research Review",
+   "credits": 1.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 150",
+   "courseTitle": "Introduction to Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 160",
+   "courseTitle": "Literature Into Film",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 175",
+   "courseTitle": "The Short Story",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 180",
+   "courseTitle": "Arthurian Legend",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 185",
+   "courseTitle": "International Tale",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 190",
+   "courseTitle": "Modern Japanese Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 200",
+   "courseTitle": "Tutoring Writing: Methods/Practice",
+   "credits": 1.5,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 201",
+   "courseTitle": "Shakespeare's Heroes and Heroines",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 202",
+   "courseTitle": "Shakespeare in Love and War",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 204",
+   "courseTitle": "Writing Literary Non-Fiction",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 205",
+   "courseTitle": "American Poetry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 206",
+   "courseTitle": "British Poetry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 210",
+   "courseTitle": "Memoir Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 212",
+   "courseTitle": "Travel Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 225",
+   "courseTitle": "18th Century British Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 227",
+   "courseTitle": "Drama/Classical to Modern",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 228",
+   "courseTitle": "Modern Drama",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 233",
+   "courseTitle": "British Romanticism",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 237",
+   "courseTitle": "Fantastic Worlds of British Lit",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 238",
+   "courseTitle": "Victorian Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 239",
+   "courseTitle": "Modern British Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 240",
+   "courseTitle": "Contemporary British Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 241",
+   "courseTitle": "Gender and Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 245",
+   "courseTitle": "American Theater",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 249",
+   "courseTitle": "Modern Irish Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 250",
+   "courseTitle": "Creative Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 251",
+   "courseTitle": "African American Writers",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 255",
+   "courseTitle": "Writing Poetry I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 258",
+   "courseTitle": "Screenwriting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 260",
+   "courseTitle": "Ethnic Voices",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 264",
+   "courseTitle": "Literature in America to 1820",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 265",
+   "courseTitle": "American Romanticism/1820-1865",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 266",
+   "courseTitle": "Modern Am Literature/1865 to 1945",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 267",
+   "courseTitle": "Contemporary Am Lit/1940 to Present",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 270",
+   "courseTitle": "Writing Fiction I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 275",
+   "courseTitle": "Writing the Graphic Novel",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 277",
+   "courseTitle": "Ecology and Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 278",
+   "courseTitle": "Connected Creatures: Humans/Animals",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 280",
+   "courseTitle": "American Literature of the 1920s",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 281",
+   "courseTitle": "Special Topics in English Lit",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 300",
+   "courseTitle": "James Joyce and Ulysses",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 301",
+   "courseTitle": "American Novel",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 305",
+   "courseTitle": "Writing Poetry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 308",
+   "courseTitle": "The British Novel",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 338",
+   "courseTitle": "Medieval British Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 340",
+   "courseTitle": "American Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 342",
+   "courseTitle": "British Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 355",
+   "courseTitle": "Writing Poetry II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 370",
+   "courseTitle": "Writing Fiction II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 401",
+   "courseTitle": "Internship in English Literature",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 410",
+   "courseTitle": "A Sense of Place",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 481",
+   "courseTitle": "Advanced Special Topics/English Lit",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 488",
+   "courseTitle": "Research Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 490",
+   "courseTitle": "Independent Study/Engl Lit/Engl Wrt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 495",
+   "courseTitle": "Senior Seminar Research Workshop",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "ENGL 495L",
+   "courseTitle": "Senior Seminar Advisory",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "ENGL 498",
+   "courseTitle": "Senior Seminar in Engl Lit/Engl&Wrt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ENGN 101",
+   "courseTitle": "Basic Engl Skills/Non-Native I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ENGN 102",
+   "courseTitle": "Basic English Skills/Non-Native II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ENGN 103",
+   "courseTitle": "Inter English Skills/Non-Native III",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ENGN 104",
+   "courseTitle": "Introduction to American Culture",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "ETHS 201",
+   "courseTitle": "Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "EURO 398",
+   "courseTitle": "European Studies Capstone",
+   "credits": 0,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 101",
+   "courseTitle": "Introduction to Exercise Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 102",
+   "courseTitle": "Wellness in America Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 270",
+   "courseTitle": "Exercise and Sport Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 301",
+   "courseTitle": "Kinesiology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 302",
+   "courseTitle": "Exercise Physiology",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 302L",
+   "courseTitle": "Exercise Physiology Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 303",
+   "courseTitle": "Research Meth. in Health & Exerc.Sc",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 304",
+   "courseTitle": "Personal Training/Exerc Leadership",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 305",
+   "courseTitle": "Exercise Testing and Prescription",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 306",
+   "courseTitle": "Nutrition for Health and Fitness",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 401",
+   "courseTitle": "Internship in Health & Exercise Sc",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 402",
+   "courseTitle": "Fitness & Wellness/Spl Populations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 403",
+   "courseTitle": "Foundations/Strength & Conditioning",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "EXSC 498",
+   "courseTitle": "Senior Sem in Health & Exercise Sc",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 181",
+   "courseTitle": "Intro to Investments and Securities",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 205",
+   "courseTitle": "Personal Finance, Budgeting/Invest",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 304",
+   "courseTitle": "Corporate Finance",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 336",
+   "courseTitle": "Financial Markets and Institutions",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 352",
+   "courseTitle": "International Financial Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "FINA 490",
+   "courseTitle": "Independent Study in Finance",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 101",
+   "courseTitle": "Elementary French I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 102",
+   "courseTitle": "Elementary French II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 103",
+   "courseTitle": "Inter French Culture/Language I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 214",
+   "courseTitle": "Inter French Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 221",
+   "courseTitle": "Grammaire et Composition Avanc�e",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 222",
+   "courseTitle": "Advanced French Conversation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 228",
+   "courseTitle": "Le Fran�ais Commercial",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 231",
+   "courseTitle": "Intro � la Culture Fran�aise/Part I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 232",
+   "courseTitle": "Intro � la Culture Fran�aise/Part 2",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 234",
+   "courseTitle": "The French Regions: Culture & Trad.",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 281",
+   "courseTitle": "Special Topics in French",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 341",
+   "courseTitle": "Le Dix-septi�me Si�cle",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 342",
+   "courseTitle": "Le Si�cle des Lumi�res",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 353",
+   "courseTitle": "Romantisme et R�alisme",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 354",
+   "courseTitle": "Le Vingti�me Si�cle",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 355",
+   "courseTitle": "Le Classicisme �ternel",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 361",
+   "courseTitle": "Le Monde Francophone",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 401",
+   "courseTitle": "Internship in French",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 481",
+   "courseTitle": "Advanced Special Topics in French",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 490",
+   "courseTitle": "Independent Study in French",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 495",
+   "courseTitle": "Senior Seminar Research Workshop",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "FREN 495L",
+   "courseTitle": "Senior Seminar Advisory",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "GEOG 201",
+   "courseTitle": "World Geography: Humanity/Environ",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 101",
+   "courseTitle": "Elementary German I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 102",
+   "courseTitle": "Elementary German II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 103",
+   "courseTitle": "Inter German Culture/Language I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 214",
+   "courseTitle": "Inter German Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 228",
+   "courseTitle": "Commercial German",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 281",
+   "courseTitle": "Special Topics in German",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "GERM 481",
+   "courseTitle": "Advanced Special Topics in German",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "GL",
+   "courseCode": "GLBL 398",
+   "courseTitle": "Internation Affairs Capstone Essay",
+   "credits": 0,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "GLBL 401",
+   "courseTitle": "Internship in International Affairs",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "GLBL 498",
+   "courseTitle": "Senior Seminar in Internat Affairs",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "GL",
+   "courseCode": "GLST 201",
+   "courseTitle": "Global Awareness Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "GL",
+   "courseCode": "GLST 281",
+   "courseTitle": "Special Topics in Global Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 101",
+   "courseTitle": "West Civ-Antiquity to Renaissance",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 102",
+   "courseTitle": "Western Civilization:",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 104",
+   "courseTitle": "Topics in Global History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 106",
+   "courseTitle": "Survey of Women's History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 110",
+   "courseTitle": "History of East Asia",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 141",
+   "courseTitle": "Amer Survey: Colonial - Civil War",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 142",
+   "courseTitle": "American Survey:",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 200",
+   "courseTitle": "Ancient Near Eastern/Mediterranean",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 201",
+   "courseTitle": "Ancient Greece",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 202",
+   "courseTitle": "Ancient Rome",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 203",
+   "courseTitle": "Classical Archaeology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 204",
+   "courseTitle": "Medieval Europe/Surrounding World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 205",
+   "courseTitle": "Renaissance/Reformation:1450-1648",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 210",
+   "courseTitle": "Europe in the 20th Century",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 212",
+   "courseTitle": "Culture/Society in Modern Europe",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 214",
+   "courseTitle": "20th Century Germany",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 216",
+   "courseTitle": "The Holocaust",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 218",
+   "courseTitle": "French Revolution",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 219",
+   "courseTitle": "France and the Modern World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 220",
+   "courseTitle": "Rise and Fall of the Soviet Union",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 224",
+   "courseTitle": "History/Gr Britain: Tudors /Present",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 226",
+   "courseTitle": "Europe in the Age of World War",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 227",
+   "courseTitle": "Europe in the Contemporary World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 228",
+   "courseTitle": "Women in Modern European Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 229",
+   "courseTitle": "History of American Immigration",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 231",
+   "courseTitle": "History of Am Foreign Relations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 233",
+   "courseTitle": "America and the Two World Wars",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 236",
+   "courseTitle": "Progressive America: 1900-1940",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 240",
+   "courseTitle": "Environmental History of the U.S.",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 245",
+   "courseTitle": "The 1960s and its Legacies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 246",
+   "courseTitle": "History of Vietnam",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 247",
+   "courseTitle": "African Amer During Age of Slavery",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 248",
+   "courseTitle": "African Americas Since Emancipation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 250",
+   "courseTitle": "Pennsylvania Experience",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 260",
+   "courseTitle": "History of Latin America:",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 275",
+   "courseTitle": "Film and History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 276",
+   "courseTitle": "War and Cinema",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 278",
+   "courseTitle": "History of Warfare",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 280",
+   "courseTitle": "History of Native Americans",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 281",
+   "courseTitle": "Special Topics in History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 322",
+   "courseTitle": "Genocide in the Modern World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 325",
+   "courseTitle": "Women in Global Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 330",
+   "courseTitle": "Revolution, War & Peace:",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 334",
+   "courseTitle": "The American Presidency: A History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 343",
+   "courseTitle": "The Civil War and American Life",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 397",
+   "courseTitle": "History Research Methods Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 401",
+   "courseTitle": "Internship in History",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 403",
+   "courseTitle": "Fieldwork in History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 490",
+   "courseTitle": "Independent Study in History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 497",
+   "courseTitle": "History and Historiography",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "HP",
+   "courseCode": "HIST 498",
+   "courseTitle": "Capstone Seminar in History",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "HLTH 101",
+   "courseTitle": "Introduction to Health Sciences",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "HLTH 102",
+   "courseTitle": "Introduction to Healthcare",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 105",
+   "courseTitle": "Introduction to Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 120",
+   "courseTitle": "Intro to Restorative Practices",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 200",
+   "courseTitle": "World Justice and Care for Children",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 201",
+   "courseTitle": "Social Inequality",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 219",
+   "courseTitle": "Child Welfare",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 250",
+   "courseTitle": "Heart of the City/Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 257",
+   "courseTitle": "Human Behavior and the Social Env",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 281",
+   "courseTitle": "Special Topics in Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 302",
+   "courseTitle": "Social Science Research Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 303",
+   "courseTitle": "Human Services Fieldwork/Seminar I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 308",
+   "courseTitle": "Theory/Pract of Counseling in HSVC",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 315",
+   "courseTitle": "Life After War: The New Mission",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 322",
+   "courseTitle": "Disability and Society/Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 325",
+   "courseTitle": "Restorative Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 356",
+   "courseTitle": "Social Welfare Policy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 358",
+   "courseTitle": "Human Services Methods",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 399",
+   "courseTitle": "Administration of Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 401",
+   "courseTitle": "Internship in Human Services",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 402",
+   "courseTitle": "Internship in Human Services",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 403",
+   "courseTitle": "Human Services Fieldwork/Seminar II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 481",
+   "courseTitle": "Adv Special Topics/Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 490",
+   "courseTitle": "Independent Study in Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "HSVC 498",
+   "courseTitle": "Senior Seminar in Human Services",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "HUMN 300",
+   "courseTitle": "Telling Your Story",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "HUMN 301",
+   "courseTitle": "Well-Being and Work",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "HUMN 302",
+   "courseTitle": "What's Next? Big Questions/Prac Skl",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "HUMN 496",
+   "courseTitle": "Applied Senior Seminar Workshop",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "IBLC 401",
+   "courseTitle": "Internship in Intern'l Business",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "IBLC 498",
+   "courseTitle": "Senior Seminar in Intern'l Business",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 101",
+   "courseTitle": "Intercultural Foundations/Wrkshp I",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 102",
+   "courseTitle": "Intercultural Foundations/Wrkshp II",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 201",
+   "courseTitle": "Intercultural Foundations/Field I",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 202",
+   "courseTitle": "Intercultural Foundations/Field II",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 203",
+   "courseTitle": "Intercultural Foundations/Field III",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 204",
+   "courseTitle": "Intercultural Foundations/Field IV",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 205",
+   "courseTitle": "Intercultural Foundations/Field V",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 301",
+   "courseTitle": "Reflection and Self-Assessment",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "ICFC 398",
+   "courseTitle": "Seminar/Intercultural Foundations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 210",
+   "courseTitle": "Writing in the Disciplines I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 220",
+   "courseTitle": "Writing in the Disciplines II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 303",
+   "courseTitle": "Material Imagination/Medieval Art I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 304",
+   "courseTitle": "Material Imagination/Medvl Art II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 305",
+   "courseTitle": "Scrn Mmry: Storytelling/Spiritual I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 306",
+   "courseTitle": "Screen Mmry: Story/Spirituality II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 307",
+   "courseTitle": "The Medium is the Message I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 308",
+   "courseTitle": "The Medium is the Message II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 326",
+   "courseTitle": "Emergence of the Hero I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 327",
+   "courseTitle": "Emergence of the Hero II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 346",
+   "courseTitle": "It's About Time I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 347",
+   "courseTitle": "It's About Time II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "ID",
+   "courseCode": "IDHP 490",
+   "courseTitle": "Independent Study in IDHP",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ITAL 101",
+   "courseTitle": "Elementary Italian I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ITAL 102",
+   "courseTitle": "Elementary Italian II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ITAL 103",
+   "courseTitle": "Intermediate Italian I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "ITAL 214",
+   "courseTitle": "Intmd. Italian Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "LADS 120",
+   "courseTitle": "Liberal Arts Discovery Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "LADS 121",
+   "courseTitle": "Liberal Arts Discovery Seminar",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 101",
+   "courseTitle": "Elementary Latin I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 102",
+   "courseTitle": "Elementary Latin II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 103",
+   "courseTitle": "Inter Latin Culture/Language I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 214",
+   "courseTitle": "Inter Latin Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 281",
+   "courseTitle": "Special Topics in Latin",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "LATN 481",
+   "courseTitle": "Advanced Special Topics in Latin",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 101",
+   "courseTitle": "Intro/Law, Legal Studies & Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 102",
+   "courseTitle": "Legal Research",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 103",
+   "courseTitle": "Civil Litigation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 104",
+   "courseTitle": "Practical Legal Office/Career Skls",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 201",
+   "courseTitle": "Legal Technology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 203",
+   "courseTitle": "Legal Research",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 281",
+   "courseTitle": "Special Topics in Legal Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 301",
+   "courseTitle": "Trial and Advocacy Practice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 302",
+   "courseTitle": "Legal Service and Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 303",
+   "courseTitle": "Pract Paralegal Skl & Law Off Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 311",
+   "courseTitle": "Advanced Legal Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 401",
+   "courseTitle": "Internship/Law & Legal Studies",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "LEGL 498",
+   "courseTitle": "Senior Seminar/Law & Legal Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 103",
+   "courseTitle": "Integrated Arithmetic/Basic Algebra",
+   "credits": 1.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 115",
+   "courseTitle": "Understanding/Quantitative World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 117",
+   "courseTitle": "Enriched Precalculus I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 121",
+   "courseTitle": "Precalculus I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 122",
+   "courseTitle": "Precalculus II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 201",
+   "courseTitle": "Math for Mgmt I/Finite Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 202",
+   "courseTitle": "Math for Mgmt II/Applied Calculus",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 203",
+   "courseTitle": "Analytic Geometry and Calculus I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 204",
+   "courseTitle": "Analytic Geometry and Calculus II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 211",
+   "courseTitle": "Calculus and Modern Analysis I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 212",
+   "courseTitle": "Calculus and Modern Analysis II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 227",
+   "courseTitle": "Intro to Probability and Statistics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 231",
+   "courseTitle": "Basic Math Theory/Applications I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 232",
+   "courseTitle": "Basic Math Theory/Applications II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 233",
+   "courseTitle": "Basic Math Theory/Applications III",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 251",
+   "courseTitle": "Calculus and Linear Algebra",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 252",
+   "courseTitle": "Calculus and Modern Analysis III",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 261",
+   "courseTitle": "Discrete Methods in Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 262",
+   "courseTitle": "Probability and Statistics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 272",
+   "courseTitle": "Number Theory With Applications",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 273",
+   "courseTitle": "Advanced Probability and Statistics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 281",
+   "courseTitle": "Special Topics in Mathematics",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 305",
+   "courseTitle": "Abstract Algebra I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 306",
+   "courseTitle": "Abstract Algebra II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 307",
+   "courseTitle": "Differential Equations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 321",
+   "courseTitle": "Real Analysis",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 331",
+   "courseTitle": "Mathematical Modeling",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 341",
+   "courseTitle": "Introduction to Operations Research",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 342",
+   "courseTitle": "Fundamentals of Geometry",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 401",
+   "courseTitle": "Internship in Mathematics",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 481",
+   "courseTitle": "Adv Special Topics in Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 490",
+   "courseTitle": "Independent Study in Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 497",
+   "courseTitle": "Modern Mathematical Theory",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "MATH 498",
+   "courseTitle": "Senior Seminar in Mathematics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 100",
+   "courseTitle": "Intro to Media & Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 102",
+   "courseTitle": "The Griffin Production Workshop",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 103",
+   "courseTitle": "Griffin Media Production Workshop",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 104",
+   "courseTitle": "Griffin Public Relations Workshop",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 106",
+   "courseTitle": "Literary Magazine Workshop",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 120",
+   "courseTitle": "Introduction to Media Arts",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 150",
+   "courseTitle": "Media & Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 160",
+   "courseTitle": "Public Speaking",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 170",
+   "courseTitle": "Interpersonal Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 200",
+   "courseTitle": "Writing for Digital Media",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 202",
+   "courseTitle": "Advanced Newspaper Prod Workshop",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 203",
+   "courseTitle": "Advanced Media Production Workshop",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 204",
+   "courseTitle": "Advanced Griffin PR Workshop",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 215",
+   "courseTitle": "Media Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 220",
+   "courseTitle": "Multimedia Production",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 221",
+   "courseTitle": "Videography",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 222",
+   "courseTitle": "Video Editing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 223",
+   "courseTitle": "Audio Production",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 224",
+   "courseTitle": "Digital Photography",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 227",
+   "courseTitle": "TV Production",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 228",
+   "courseTitle": "Screenwriting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 230",
+   "courseTitle": "Media Literacy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 231",
+   "courseTitle": "American Cinema",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 232",
+   "courseTitle": "International Cinema",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 240",
+   "courseTitle": "Journalism Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 245",
+   "courseTitle": "Sports Media Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 250",
+   "courseTitle": "Social Media & Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 254",
+   "courseTitle": "Advertising",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 260",
+   "courseTitle": "Persuasion & Propaganda",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 261",
+   "courseTitle": "Public Relations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 262",
+   "courseTitle": "Public Relations Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 263",
+   "courseTitle": "Courtroom Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 270",
+   "courseTitle": "Business Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 276",
+   "courseTitle": "Grant Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 281",
+   "courseTitle": "Spl Topics in Media & Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 300",
+   "courseTitle": "Research Principles",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 321",
+   "courseTitle": "Advanced Videography",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 328",
+   "courseTitle": "Advanced Screenwriting",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 330",
+   "courseTitle": "Gender & Race in Media",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 340",
+   "courseTitle": "Advanced Journalism Writing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 350",
+   "courseTitle": "Media & the Public",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 360",
+   "courseTitle": "Media Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 368",
+   "courseTitle": "Media, Crime and Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 401",
+   "courseTitle": "Internship in Media & Communication",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 405",
+   "courseTitle": "Practicum in Media & Communication",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 481",
+   "courseTitle": "Advanced Spl Topics in Media/Comm",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 490",
+   "courseTitle": "Independent Study in Media/Comm",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CO",
+   "courseCode": "MCOM 498",
+   "courseTitle": "Senior Seminar in Media/Comm",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 105",
+   "courseTitle": "Principles of Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 204",
+   "courseTitle": "Organization/Management of HR",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 205",
+   "courseTitle": "Project Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 206",
+   "courseTitle": "Purchasing/Supply Chain Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 281",
+   "courseTitle": "Special Topics in Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 300",
+   "courseTitle": "Operations Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 302",
+   "courseTitle": "Entrepreneurship",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 303",
+   "courseTitle": "Strategic Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 304",
+   "courseTitle": "Culture in Intern'l Decision-Making",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 401",
+   "courseTitle": "Internship in Management",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MGMT 490",
+   "courseTitle": "Independent Study in Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 203",
+   "courseTitle": "Marketing Principles",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 205",
+   "courseTitle": "Consumer Behavior",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 206",
+   "courseTitle": "International Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 210",
+   "courseTitle": "Social Media Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 230",
+   "courseTitle": "Media Literacy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 253",
+   "courseTitle": "Retailing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 254",
+   "courseTitle": "Advertising",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 255",
+   "courseTitle": "Public Relations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 256",
+   "courseTitle": "Personal Selling/Sales Force Mgmt",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 281",
+   "courseTitle": "Special Topics in Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 310",
+   "courseTitle": "Marketing Research",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 365",
+   "courseTitle": "Marketing Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 401",
+   "courseTitle": "Internship in Marketing",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 481",
+   "courseTitle": "Advanced Special Topics / Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 490",
+   "courseTitle": "Independent Study in Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "MKTG 498",
+   "courseTitle": "Senior Seminar in Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 101",
+   "courseTitle": "Secondary Piano Lessons I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 102",
+   "courseTitle": "Piano Proficiency I",
+   "credits": 0,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 103",
+   "courseTitle": "Beginning Piano I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 104",
+   "courseTitle": "Beginning Piano II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 111",
+   "courseTitle": "Beginning Voice I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 112",
+   "courseTitle": "Beginning Voice II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 121",
+   "courseTitle": "Beginning Guitar I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 122",
+   "courseTitle": "Beginning Guitar II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 134",
+   "courseTitle": "Beginning Cello II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 141",
+   "courseTitle": "Beginning Flute I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 142",
+   "courseTitle": "Beginning Flute II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 145",
+   "courseTitle": "Beginning Clarinet I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 146",
+   "courseTitle": "Beginning Clarinet II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 147",
+   "courseTitle": "Beginning Saxophone I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 148",
+   "courseTitle": "Beginning Saxophone II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 151",
+   "courseTitle": "Beginning Trumpet I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 152",
+   "courseTitle": "Beginning Trumpet II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 161",
+   "courseTitle": "Beginning Percussion I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 162",
+   "courseTitle": "Beginning Percussion II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 201",
+   "courseTitle": "Secondary Piano Lessons II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 202",
+   "courseTitle": "Piano Proficiency II",
+   "credits": 0,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 203",
+   "courseTitle": "Intermediate Piano I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 204",
+   "courseTitle": "Intermediate Piano II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 211",
+   "courseTitle": "Intermediate Voice I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 212",
+   "courseTitle": "Intermediate Voice II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 233",
+   "courseTitle": "Intermediate Cello I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 234",
+   "courseTitle": "Intermediate Cello II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 247",
+   "courseTitle": "Intermediate Saxophone I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 248",
+   "courseTitle": "Intermediate Saxophone II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 261",
+   "courseTitle": "Intermediate Percussion I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 262",
+   "courseTitle": "Intermediate Percussion II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 303",
+   "courseTitle": "Intermediate Piano III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 304",
+   "courseTitle": "Intermediate Piano IV",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 311",
+   "courseTitle": "Intermediate Voice III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 312",
+   "courseTitle": "Intermediate Voice IV",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 333",
+   "courseTitle": "Intermediate Cello III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 343",
+   "courseTitle": "Intermediate Oboe/Bassoon III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 344",
+   "courseTitle": "Intermediate Oboe/Bassoon IV",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 345",
+   "courseTitle": "Intermediate Clarinet III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 347",
+   "courseTitle": "Intermediate Saxophone III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 348",
+   "courseTitle": "Intermediate Saxophone IV",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 361",
+   "courseTitle": "Intermediate Percussion III",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 362",
+   "courseTitle": "Intermediate Percussion IV",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 398",
+   "courseTitle": "Junior Recital",
+   "credits": 0,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 403",
+   "courseTitle": "Advanced Piano I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 404",
+   "courseTitle": "Advanced Piano II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 411",
+   "courseTitle": "Advanced Voice I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 412",
+   "courseTitle": "Advanced Voice II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 443",
+   "courseTitle": "Advanced Oboe/Bassoon I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 446",
+   "courseTitle": "Advanced Clarinet II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 447",
+   "courseTitle": "Advanced Saxophone I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 448",
+   "courseTitle": "Advanced Saxophone II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 449",
+   "courseTitle": "Advanced Viola I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 461",
+   "courseTitle": "Advanced Percussion I",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 462",
+   "courseTitle": "Advanced Percussion II",
+   "credits": 0.5,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUAP 498",
+   "courseTitle": "Senior Recital",
+   "credits": 0,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUED 420",
+   "courseTitle": "Clinical Field Exp/Student Teaching",
+   "credits": 9,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUED 421",
+   "courseTitle": "Clinical/Student Teaching Seminar",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MULS 103",
+   "courseTitle": "Piano Lessons (Non-Major)",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MULS 111",
+   "courseTitle": "Vocal Lessons (Non-Major)",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MULS 121",
+   "courseTitle": "Guitar Lessons (Non-Major)",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MULS 132",
+   "courseTitle": "Violin Lessons (Non-major)",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MULS 171",
+   "courseTitle": "Miscellaneous Lessons (Non-Major)",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 100",
+   "courseTitle": "Recital Performance/Attendance",
+   "credits": 0,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 110",
+   "courseTitle": "Hill Singers Performance",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 113",
+   "courseTitle": "Opera Workshop/Musical Productions",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 130",
+   "courseTitle": "String Ensemble Performance",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 150",
+   "courseTitle": "Wind Ensemble Performance",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 170",
+   "courseTitle": "Jazz Ensemble Performance",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUPE 171",
+   "courseTitle": "Jazz Improvization Lab",
+   "credits": 0.5,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 101",
+   "courseTitle": "Music in Western Culture",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 103",
+   "courseTitle": "Introduction to Music Theory",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 105",
+   "courseTitle": "Aural Skills I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 106",
+   "courseTitle": "Aural Skills II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 120",
+   "courseTitle": "Introduction to Western Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 124",
+   "courseTitle": "Music in 20th Century America I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 140",
+   "courseTitle": "Critical Survey of Music in Film",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 190",
+   "courseTitle": "Music and Technology",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 201",
+   "courseTitle": "Music Theory I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 202",
+   "courseTitle": "Music Theory II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 203",
+   "courseTitle": "Global Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 212",
+   "courseTitle": "Keyboard Harmony",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 218",
+   "courseTitle": "Basic Conducting",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 221",
+   "courseTitle": "Music History I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 222",
+   "courseTitle": "Music History II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 252",
+   "courseTitle": "Business of Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 281",
+   "courseTitle": "Special Topics in Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 301",
+   "courseTitle": "Music Theory III",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 302",
+   "courseTitle": "Music Theory IV",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 307",
+   "courseTitle": "Counterpoint and Composition",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 309",
+   "courseTitle": "Orchestration",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 401",
+   "courseTitle": "Internship in Music",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 490",
+   "courseTitle": "Independent Study in Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 495",
+   "courseTitle": "Senior Seminar Research Workshop",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 495L",
+   "courseTitle": "Senior Seminar Advisory",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUSC 498",
+   "courseTitle": "Senior Seminar in Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUVO 201",
+   "courseTitle": "Diction I",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUVO 202",
+   "courseTitle": "Diction II",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUVO 211",
+   "courseTitle": "Vocal Pedagogy",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUVO 221",
+   "courseTitle": "Vocal Literature",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FA",
+   "courseCode": "MUVO 222",
+   "courseTitle": "Opera Literature",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 108",
+   "courseTitle": "Introduction to Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 109",
+   "courseTitle": "Philosophical Thinking",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 120",
+   "courseTitle": "19th and 20th Century Philosophers",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 124",
+   "courseTitle": "Introduction to American Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 128",
+   "courseTitle": "Introduction to Symbolic Logic",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 131",
+   "courseTitle": "Philosophy of Science & Religion",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 201",
+   "courseTitle": "Existence",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 203",
+   "courseTitle": "Philosophy and Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 207",
+   "courseTitle": "History and Philosophy of Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 209",
+   "courseTitle": "History/Ancient/Medieval Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 212",
+   "courseTitle": "History of Modern Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 222",
+   "courseTitle": "Introduction to Philosophy Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 224",
+   "courseTitle": "Intro/ Ethics and the Environment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 281",
+   "courseTitle": "Special Topics in Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 315",
+   "courseTitle": "Philosophy/Religion/Eastern World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "PHIL 490",
+   "courseTitle": "Independent Study in Philosophy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 100",
+   "courseTitle": "Physics in Action",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 104",
+   "courseTitle": "Astronomy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 105",
+   "courseTitle": "Physical/Earth/Space Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 107",
+   "courseTitle": "The Science of Music",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 121",
+   "courseTitle": "Principles of Physics I",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 121L",
+   "courseTitle": "Principles of Physics I Lab",
+   "credits": 0,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 122",
+   "courseTitle": "Principles of Physics II",
+   "credits": 4,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 122L",
+   "courseTitle": "Principles of Physics II Lab",
+   "credits": 0,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "CH",
+   "courseCode": "PHYS 490",
+   "courseTitle": "Independent Study in Physics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 113",
+   "courseTitle": "Introduction to American Government",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 114",
+   "courseTitle": "American Political Parties",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 117",
+   "courseTitle": "Principles of Business Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 118",
+   "courseTitle": "Mass Media and Politics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 130",
+   "courseTitle": "The Rule of Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 140",
+   "courseTitle": "Introduction to World Politics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 212",
+   "courseTitle": "American State and Local Government",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 217",
+   "courseTitle": "Women in Politics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 218",
+   "courseTitle": "Race and American Politics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 230",
+   "courseTitle": "Intro/Comp Politics/Govt'l Systems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 231",
+   "courseTitle": "Intro/Comp Politics/Nat'l Themes",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 232",
+   "courseTitle": "Comparative Democracy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 235",
+   "courseTitle": "Government Politics of Eur/EU",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 240",
+   "courseTitle": "Theories of International Relations",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 241",
+   "courseTitle": "American Foreign Policy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 242",
+   "courseTitle": "International Org/Law/Public Policy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 281",
+   "courseTitle": "Special Topics in Political Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 314",
+   "courseTitle": "Constitutional Law: Civil Liberties",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 315",
+   "courseTitle": "Politics of the American Presidency",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 316",
+   "courseTitle": "Constitutional Law: Public Policy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 321",
+   "courseTitle": "Political Theories:Ancient/Medieval",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 322",
+   "courseTitle": "Political Theories: 17th to 20th C",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 330",
+   "courseTitle": "Gov't/Politics of the Middle East",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 341",
+   "courseTitle": "International Political Economy",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 401",
+   "courseTitle": "Internship in Political Science",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 481",
+   "courseTitle": "Adv Special Topics in Political Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 490",
+   "courseTitle": "Independent Study in Political Sci",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PO",
+   "courseCode": "PSCI 498",
+   "courseTitle": "Senior Seminar in Political Science",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "EN",
+   "courseCode": "PSPK 101",
+   "courseTitle": "Fundamentals of Public Speaking",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 101",
+   "courseTitle": "General Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 103",
+   "courseTitle": "Psychology/Child Development",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 109",
+   "courseTitle": "Psychology of  Women",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 111",
+   "courseTitle": "Industrial/Organizational Psych",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 203",
+   "courseTitle": "Psychology/Child Development",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 206",
+   "courseTitle": "Theories of Personality",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 207",
+   "courseTitle": "Intro to Cognitive Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 210",
+   "courseTitle": "Physiology of Behavior",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 211",
+   "courseTitle": "Sensation and Perception",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 212",
+   "courseTitle": "Social Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 213",
+   "courseTitle": "Industrial/Organizational Psych",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 216",
+   "courseTitle": "Quantitative Methods in Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 217",
+   "courseTitle": "Abnormal Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 219",
+   "courseTitle": "Child Psychopathology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 223",
+   "courseTitle": "Theory/Practice of Psych Counseling",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 230",
+   "courseTitle": "Drugs and Behavior",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 235",
+   "courseTitle": "Forensic Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 240",
+   "courseTitle": "Psych of Health/Stress/Coping",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 250",
+   "courseTitle": "Adolescence/Adulthood and Aging",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 260",
+   "courseTitle": "Theories of Learning",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 281",
+   "courseTitle": "Special Topics in Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 301",
+   "courseTitle": "Group Process and Leadership",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 313",
+   "courseTitle": "Research Methods in Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 314",
+   "courseTitle": "Research Experience",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 320",
+   "courseTitle": "Psychological Assessment",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 401",
+   "courseTitle": "Internship in Psychology",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 405",
+   "courseTitle": "Teaching of Psychology",
+   "credits": 1,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 481",
+   "courseTitle": "Advanced Special Topics in Psych",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 490",
+   "courseTitle": "Independent Study in Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PS",
+   "courseCode": "PSYC 498",
+   "courseTitle": "Senior Seminar in Psychology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "PE",
+   "courseCode": "PTCP 117",
+   "courseTitle": "Science of Exercise",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 104",
+   "courseTitle": "Religious Imagination",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 105",
+   "courseTitle": "Christianity in Global Context",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 206",
+   "courseTitle": "World Religions",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 207",
+   "courseTitle": "Contemporary Christian Living",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 208",
+   "courseTitle": "What Catholics Believe",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 209",
+   "courseTitle": "Old Testament Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 210",
+   "courseTitle": "New Testament Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 211",
+   "courseTitle": "Women in the Bible",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 216",
+   "courseTitle": "Fundamental Moral Theology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 217",
+   "courseTitle": "Contemporary Moral Issues",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 218",
+   "courseTitle": "Biomedical Moral Issues",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 219",
+   "courseTitle": "A God Beyond All Names",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 220",
+   "courseTitle": "Forgiveness and Reconciliation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 222",
+   "courseTitle": "Marriage and Family",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 226",
+   "courseTitle": "The Meaning of Death and Dying",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 234",
+   "courseTitle": "Sacraments and Spirituality",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 235",
+   "courseTitle": "Spirituality: A Life Journey",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 240",
+   "courseTitle": "Introduction to Social Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 241",
+   "courseTitle": "Models/Mentors in Spiritual Life",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 242",
+   "courseTitle": "Women in Society and Religion",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 244",
+   "courseTitle": "Global Theology/The Cry for Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 245",
+   "courseTitle": "Christian Social Ethics",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 250",
+   "courseTitle": "Heart of the City/Religious Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 257",
+   "courseTitle": "Leadership for Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 260",
+   "courseTitle": "Spiritual Dimensions/Mindfulness",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 262",
+   "courseTitle": "God and the Struggle for Civil Rts",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 281",
+   "courseTitle": "Special Topics in Religious Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 310",
+   "courseTitle": "Faces of Heroines/Western Religion",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 315",
+   "courseTitle": "Philosophy/Religion/Eastern World",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 401",
+   "courseTitle": "Internship in Religious Studies",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 481",
+   "courseTitle": "Adv Sp Topics in Religious Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "RS",
+   "courseCode": "RLST 490",
+   "courseTitle": "Independent Study/Religious Studies",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 101",
+   "courseTitle": "Elementary Russian I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 102",
+   "courseTitle": "Elementary Russian II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 103",
+   "courseTitle": "Inter Russian Culture/Language I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 214",
+   "courseTitle": "Inter Russian Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 281",
+   "courseTitle": "Special Topics in Russian",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 401",
+   "courseTitle": "Internship in Russian",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "RUSS 481",
+   "courseTitle": "Advanced Special Topics in Russian",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "MA",
+   "courseCode": "SKLS 099",
+   "courseTitle": "Practical Mathematics",
+   "credits": 3,
+   "creditTypeCode": "NA"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SKLS 100",
+   "courseTitle": "Experiences in Language and Culture",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 101",
+   "courseTitle": "Introduction to Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 103",
+   "courseTitle": "Social Problems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 104",
+   "courseTitle": "Major Global Problems",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 114",
+   "courseTitle": "Social Gerontology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 120",
+   "courseTitle": "Intro to Restorative Practices",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 125",
+   "courseTitle": "The Family",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 126",
+   "courseTitle": "Gender and Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 127",
+   "courseTitle": "Diversity Issues",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 200",
+   "courseTitle": "World Justice and Care for Children",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 201",
+   "courseTitle": "Social Inequality",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 210",
+   "courseTitle": "Gender and the Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 216",
+   "courseTitle": "Sociology of Health and Medicine",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 226",
+   "courseTitle": "Deviance and Social Control",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 250",
+   "courseTitle": "Heart of the City/Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 255",
+   "courseTitle": "Culture and Society",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 281",
+   "courseTitle": "Special Topics in Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 300",
+   "courseTitle": "Sociological Theory",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 325",
+   "courseTitle": "Restorative Justice",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 401",
+   "courseTitle": "Internship in Sociology",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 481",
+   "courseTitle": "Adv Special Topics in Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 490",
+   "courseTitle": "Independent Study in Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "SO",
+   "courseCode": "SOCI 498",
+   "courseTitle": "Senior Seminar in Sociology",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAH 101",
+   "courseTitle": "Spanish/ Health & Social Services I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAH 102",
+   "courseTitle": "Spanish/ Health & Social Services 2",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 101",
+   "courseTitle": "Elementary Spanish I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 102",
+   "courseTitle": "Elementary Spanish II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 103",
+   "courseTitle": "Inter Spanish Culture/Language I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 214",
+   "courseTitle": "Inter Spanish Culture/Language II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 220",
+   "courseTitle": "Spanish for Heritage Speakers",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 221",
+   "courseTitle": "Advanced Grammar/Composition",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 222",
+   "courseTitle": "Advanced Conversation",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 228",
+   "courseTitle": "Commercial Spanish",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 231",
+   "courseTitle": "Intro to Hispanic Culture I/Spain",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 232",
+   "courseTitle": "Intro to Hispanic Culture II/Lat Am",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 261",
+   "courseTitle": "Masterpieces of Hispanic Lit I",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 262",
+   "courseTitle": "Masterpieces of Hispanic Lit II",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 263",
+   "courseTitle": "Masterpieces of Hispanic Lit III",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 281",
+   "courseTitle": "Special Topics in Spanish",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 354",
+   "courseTitle": "Contemporary Spanish Literature",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 355",
+   "courseTitle": "Contemporary Latin American Lit",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 361",
+   "courseTitle": "Literary Works/Movies They Inspired",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 362",
+   "courseTitle": "Hispanic Women Writers",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 401",
+   "courseTitle": "Internship in Spanish",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 481",
+   "courseTitle": "Advanced Special Topics in Spanish",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 490",
+   "courseTitle": "Independent Study in Spanish",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 495",
+   "courseTitle": "Senior Seminar Research Workshop",
+   "credits": 2,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "FL",
+   "courseCode": "SPAN 495L",
+   "courseTitle": "Senior Seminar Advisory",
+   "credits": 1,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 210",
+   "courseTitle": "Introduction to Sports Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 220",
+   "courseTitle": "Event Planning",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 230",
+   "courseTitle": "Facilities Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 281",
+   "courseTitle": "Special Topics in Sports Management",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 285",
+   "courseTitle": "Sports Media Communication",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 320",
+   "courseTitle": "Sports Law",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 330",
+   "courseTitle": "Sports Marketing",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 340",
+   "courseTitle": "Sports Finance",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ },
+ {
+   "divisionCode": "BU",
+   "courseCode": "SPMA 401",
+   "courseTitle": "Internship in Sports Management",
+   "credits": 3,
+   "creditTypeCode": "PF"
+ },
+ {
+   "divisionCode": "IL",
+   "courseCode": "WCHC 101",
+   "courseTitle": "Welcome to CHC",
+   "credits": 3,
+   "creditTypeCode": "CR"
+ }
+]
