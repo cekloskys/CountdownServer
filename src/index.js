@@ -4,7 +4,7 @@ const { MongoClient } = require("mongodb");
 const dotenv = require("dotenv");
 dotenv.config();
 
-const { DB_URI, DB_COUNTDOWN, COL_COURSEINFO, DB_GAMEDAY, COL_GAMEINFO } = process.env;
+const { DB_URI, DB_COUNTDOWN, COL_COURSEINFO, DB_GAMEDAY, COL_GAMEINFO, DB_LOGUELINK, COL_LINKINFO, COL_TUTORIALINFO } = process.env;
 
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
@@ -27,6 +27,17 @@ const typeDefs = gql`
     solution: String
     title: String
   } 
+  
+  type Link {
+    id: String
+    uri: String
+    title: String
+  } 
+    
+   type Tutorial {
+      id: String
+      title: String
+   } 
 
   # The "Query" type is special: it lists all of the available queries that
   # clients can execute, along with the return type for each. In this
@@ -41,6 +52,9 @@ const typeDefs = gql`
     courseByType(creditTypeCode: [String]): [Course]
 
     games: [Game]
+    
+    links: [Link]
+    tutorials: [Tutorial]
   }
 `;
 
@@ -55,25 +69,25 @@ const resolvers = {
       console.log(data);
       if ((data.courseCode == '' || data.courseCode == undefined ) && (data.courseTitle == '' || data.courseTitle == undefined ) && (data.divisionCodes.length == 0 || data.divisionCodes == undefined )) {
         return await context.countdownCol.find({}).toArray();
-        
+
       }else if ((data.courseCode == '' || data.courseCode == undefined ) && (data.courseTitle == '' || data.courseTitle == undefined )) {
         return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}}).toArray()
-        
+
       }else if ((data.divisionCodes.length == 0 || data.divisionCodes == undefined ) && (data.courseTitle == '' || data.courseTitle == undefined )) {
         return await context.countdownCol.find({courseCode: {"$regex":data.courseCode}}).toArray()
-        
+
       }else if ((data.divisionCodes.length == 0 || data.divisionCodes == undefined ) && (data.courseCode == '' || data.courseCode == undefined )) {
         return await context.countdownCol.find({courseTitle: {"$regex": data.courseTitle}}).toArray()
-        
+
       }else if ((data.divisionCodes.length == 0 || data.divisionCodes == undefined )) {
         return await context.countdownCol.find({courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle}}).toArray()
-        
+
       }else if ((data.courseCode == '' || data.courseCode == undefined )) {
         return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseTitle: {"$regex": data.courseTitle}}).toArray()
-        
+
       }else if ((data.courseTitle == '' || data.courseTitle == undefined )) {
         return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}}).toArray()
-        
+
       }else{
         // const CC_arr = await context.col.find({divisionCode: {$in: data.divisionCodes}}).toArray()
         // const DC_arr = await context.col.find({courseCode: {"$regex":data.courseCode}}).toArray()
@@ -125,6 +139,12 @@ const resolvers = {
     games: (root, data, context) => {
       return context.gameInfoCol.find({}).toArray();
     },
+    links: (root, data, context) => {
+      return context.linkInfoCol.find({}).toArray();
+    },
+    tutorials: (root, data, context) => {
+      return context.tutorialInfoCol.find({}).toArray();
+    },
   },
 };
 
@@ -139,11 +159,15 @@ const start = async () => {
 
   const db_gameday = client.db(DB_GAMEDAY);
   const gameInfoCol = db_gameday.collection(COL_GAMEINFO)
-  
+
+  const db_loguelink = client.db(DB_LOGUELINK);
+  const linkInfoCol = db_loguelink.collection(COL_LINKINFO)
+  const tutorialInfoCol = db_loguelink.collection(COL_TUTORIALINFO)
+
   // console.log(db);
 
   const context = {
-    countdownCol, gameInfoCol
+    countdownCol, gameInfoCol, linkInfoCol, tutorialInfoCol
   };
 
   // The ApolloServer constructor requires two parameters: your schema
