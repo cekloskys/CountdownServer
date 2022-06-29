@@ -77,13 +77,13 @@ const resolvers = {
         return await context.countdownCol.find({courseCode: {"$regex":data.courseCode}}).toArray()
 
       }else if ((data.divisionCodes.length == 0 || data.divisionCodes == undefined ) && (data.courseCode == '' || data.courseCode == undefined )) {
-        return await context.countdownCol.find({courseTitle: {"$regex": data.courseTitle}}).toArray()
+        return await context.countdownCol.find({courseTitle: {"$regex": data.courseTitle, $options: "i"}}).toArray()
 
       }else if ((data.divisionCodes.length == 0 || data.divisionCodes == undefined )) {
-        return await context.countdownCol.find({courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle}}).toArray()
+        return await context.countdownCol.find({courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle, $options: "i"}}).toArray()
 
       }else if ((data.courseCode == '' || data.courseCode == undefined )) {
-        return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseTitle: {"$regex": data.courseTitle}}).toArray()
+        return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseTitle: {"$regex": data.courseTitle, $options: "i"}}).toArray()
 
       }else if ((data.courseTitle == '' || data.courseTitle == undefined )) {
         return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}}).toArray()
@@ -114,7 +114,7 @@ const resolvers = {
 
         // return result
 
-        return await context.countdownCol.find({ divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle}}).toArray()
+        return await context.countdownCol.find({ divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle, $options: "i"}}).toArray()
         }
 
       },
