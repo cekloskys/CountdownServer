@@ -71,7 +71,7 @@ const typeDefs = gql`
    } 
 
     type Mutation {
-      signInGame(input: SignInInput!): AuthUser!
+      signInGame(id: String, pass: String): AuthUser!
       signInLink(id: String, pass: String): AuthUser!
 
       createGame(note: String, game: String, solution: String, title: String): Boolean!
@@ -85,18 +85,6 @@ const typeDefs = gql`
       createTutorial(id: String, title: String): Boolean!
       updateTutorial(id: Int!, updatedGame: GameInput!): Boolean!
       deleteTutorial(id: ID): Boolean!
-    }
-
-    input SignInInput {
-      id: String!
-      pass: String!
-    }
-
-    input GameInput {
-      note: String
-      game: String
-      solution: String
-      title: String
     }
 
     type AuthUser {
@@ -160,30 +148,6 @@ const resolvers = {
         return await context.countdownCol.find({divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}}).toArray()
 
       }else{
-        // const CC_arr = await context.col.find({divisionCode: {$in: data.divisionCodes}}).toArray()
-        // const DC_arr = await context.col.find({courseCode: {"$regex":data.courseCode}}).toArray()
-
-        // const result = []
-        // CC_arr.forEach((CC) => {
-        //   result.push(CC)
-        // })
-        // for (let DC_index = 0; DC_index < DC_arr.length; DC_index++) {
-        //   let found = false;
-        //   for (let CC_index = 0; CC_index < CC_arr.length; CC_index++) {
-        //     if (CC_arr[CC_index]['courseCode'] == DC_arr[DC_index]['courseCode']) {
-        //       found = true
-        //     }
-        //   }
-        //   if (!found) {
-        //     result.push(DC_arr[DC_index])
-        //   }
-        // }
-
-        // //console.log(CC_arr);
-        // //console.log(DC_arr);
-        // //console.log(result);
-
-        // return result
 
         return await context.countdownCol.find({ divisionCode: {$in: data.divisionCodes}, courseCode: {"$regex": data.courseCode}, courseTitle: {"$regex": data.courseTitle, $options: "i"}}).toArray()
         }
@@ -362,8 +326,6 @@ const start = async () => {
   const tutorialInfoCol = client.db(DB_LOGUELINK).collection(COL_TUTORIALINFO);
   const linkUsersCol = client.db(DB_LOGUELINK).collection(COL_LINKUSERS);
 
-  // const temp = await gameUsersCol.find({}).toArray();
-  // console.log(temp);
 
   
 
