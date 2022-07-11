@@ -10,6 +10,7 @@ const {
   DB_URI,
   DB_COUNTDOWN,
   COL_COURSEINFO,
+  COL_DIVISIONINFO,
   DB_GAMEDAY,
   COL_GAMEINFO,
   COL_GAMEUSERS,
@@ -46,6 +47,11 @@ const typeDefs = gql`
     courseTitle: String
     credits: Float
     creditTypeCode: String
+  }
+
+  type Division {
+    code: String
+    name: String
   }
 
   type Game {
@@ -108,6 +114,7 @@ const typeDefs = gql`
     courseByTitle(courseTitle: [String]): [Course]
     courseByCredits(credits: [Float]): [Course]
     courseByType(creditTypeCode: [String]): [Course]
+    divisions: [Division]
 
     games: [Game]
     gameSignedIn: Boolean
@@ -170,6 +177,9 @@ const resolvers = {
     },
     courseByType: (root, data, context) => {
       return context.countdownCol.find({creditTypeCode: data.creditTypeCode}).toArray();
+    },
+    divisions: (root, data, context) => {
+      return context.divisionCol.find({}).toArray();
     },
     games: async (root, data, context) => {
       return context.gameInfoCol.find({}).toArray();
@@ -318,6 +328,7 @@ const start = async () => {
   await client.connect();
   
   const countdownCol = client.db(DB_COUNTDOWN).collection(COL_COURSEINFO);
+  const divisionCol = client.db(DB_COUNTDOWN).collection(COL_DIVISIONINFO);
 
   const gameInfoCol = client.db(DB_GAMEDAY).collection(COL_GAMEINFO);
   const gameUsersCol = client.db(DB_GAMEDAY).collection(COL_GAMEUSERS);
@@ -348,6 +359,7 @@ const start = async () => {
         user,
 
         countdownCol,
+        divisionCol,
 
         gameInfoCol,
         gameUsersCol,
