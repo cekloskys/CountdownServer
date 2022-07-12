@@ -6,7 +6,7 @@ const jwt = require("jsonwebtoken")
 const dotenv = require("dotenv");
 dotenv.config();
 
-const { 
+const {
   DB_URI,
   DB_COUNTDOWN,
   COL_COURSEINFO,
@@ -18,7 +18,7 @@ const {
   COL_LINKINFO,
   COL_LINKUSERS,
   COL_TUTORIALINFO,
-  JWT_SECRET 
+  JWT_SECRET
 } = process.env;
 
 const getToken = (user) => jwt.sign({ id: user._id }, JWT_SECRET, { expiresIn: '1h' });
@@ -81,15 +81,12 @@ const typeDefs = gql`
       signInLink(id: String, pass: String): AuthUser!
 
       createGame(note: String, game: String, solution: String, title: String): Boolean!
-      updateGame(id: Int!, updatedGame: GameInput!): Boolean!
       deleteGame(id: ID): Boolean!
 
       createLink(id: String, uri: String, title: String): Boolean!
-      updateLink(id: Int!, updatedGame: GameInput!): Boolean!
       deleteLink(id: ID): Boolean!
 
       createTutorial(id: String, title: String): Boolean!
-      updateTutorial(id: Int!, updatedGame: GameInput!): Boolean!
       deleteTutorial(id: ID): Boolean!
     }
 
@@ -201,7 +198,7 @@ const resolvers = {
       const user = await context.gameUsersCol.findOne({ id: input.id });
 
       console.log(input);
-      
+
       const isPasswordCorrect = user && await bcrypt.compare(input.pass, user.pass);
 
       if (!user || !isPasswordCorrect) {
@@ -220,7 +217,7 @@ const resolvers = {
      const game = data.game;
      const solution = data.solution;
      const title = data.title;
-      const newGameTemplate = {      
+      const newGameTemplate = {
         note,
         game,
         solution,
@@ -241,7 +238,7 @@ const resolvers = {
 
     deleteGame: async(_, { id }, { gameInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      
+
       console.log(id);
       const result = await gameInfoCol.deleteOne({ _id: ObjectId(id) });
 
@@ -250,12 +247,12 @@ const resolvers = {
       return result.acknowledged;
     },
 
-    
+
     signInLink: async(_,input, {linkUsersCol}) => {
       const user = await linkUsersCol.findOne({ id: input.id });
 
       console.log(input);
-      
+
       const isPasswordCorrect = user && await bcrypt.compare(input.pass, user.pass);
 
       if (!user || !isPasswordCorrect) {
@@ -273,7 +270,7 @@ const resolvers = {
       const id = data.id;
       const uri = data.uri;
       const title = data.title;
-       const newLinkTemplate = {      
+       const newLinkTemplate = {
          id,
          uri,
          title
@@ -285,7 +282,7 @@ const resolvers = {
 
     deleteLink: async(_, { id }, { linkInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      
+
       console.log(id);
       const result = await linkInfoCol.deleteOne({ _id: ObjectId(id) });
 
@@ -298,7 +295,7 @@ const resolvers = {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
       const id = data.id;
       const title = data.title;
-       const newTutorialTemplate = {      
+       const newTutorialTemplate = {
          id,
          title
        }
@@ -309,7 +306,7 @@ const resolvers = {
 
     deleteTutorial: async(_, { id }, { tutorialInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      
+
       console.log(id);
       const result = await tutorialInfoCol.deleteOne({ _id: ObjectId(id) });
 
@@ -326,7 +323,7 @@ const start = async () => {
     useUnifiedTopology: true,
   });
   await client.connect();
-  
+
   const countdownCol = client.db(DB_COUNTDOWN).collection(COL_COURSEINFO);
   const divisionCol = client.db(DB_COUNTDOWN).collection(COL_DIVISIONINFO);
 
@@ -338,7 +335,7 @@ const start = async () => {
   const linkUsersCol = client.db(DB_LOGUELINK).collection(COL_LINKUSERS);
 
 
-  
+
 
   // The ApolloServer constructor requires two parameters: your schema
   // definition and your set of resolvers.
@@ -353,8 +350,8 @@ const start = async () => {
     context: async ({ req }) => {
 
       const user = await getUserFromToken(req.headers.authorization, client.db(DB_GAMEDAY).collection(COL_GAMEUSERS) ) || '';
-     
-      
+
+
       return{
         user,
 
@@ -369,7 +366,7 @@ const start = async () => {
         linkUsersCol
       }
     }
-    
+
   });
 
   // The `listen` method launches a web server.
