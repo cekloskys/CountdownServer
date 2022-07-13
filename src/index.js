@@ -194,7 +194,7 @@ const resolvers = {
   },
 
   Mutation: {
-    signInGame: async(_,{input}, context) => {
+    signInGame: async(_,input, context) => {
       const user = await context.gameUsersCol.findOne({ id: input.id });
 
       console.log(input);
