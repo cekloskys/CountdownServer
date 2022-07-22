@@ -231,7 +231,7 @@ const resolvers = {
     updateGame: async(_, { id, note, game, solution, title  }, { gameInfoCol, user }) => {
        if (!user) { throw new Error('Authentication Error. Please sign in'); }
 
-       const result = await gameInfoCol.updateOne({id: id}, {
+       const result = await gameInfoCol.updateOne({_id: ObjectId(id)}, {
          $set: {
            note: note,
            game: game,
