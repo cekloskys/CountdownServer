@@ -81,6 +81,7 @@ const typeDefs = gql`
       signInLink(id: String, pass: String): AuthUser!
 
       createGame(note: String, game: String, solution: String, title: String): Boolean!
+      updateGame(id: ID, note: String, game: String, solution: String, title: String): Boolean!
       deleteGame(id: ID): Boolean!
 
       createLink(id: String, uri: String, title: String): Boolean!
@@ -228,13 +229,13 @@ const resolvers = {
       return result.acknowledged// result.ops[0];
     },
 
-    // updateGame: async(_, { id, updatedGame  }, { gameInfoCol, user }) => {
-    //   if (!user) { throw new Error('Authentication Error. Please sign in'); }
+    updateGame: async(_, { id, note, game, solution, title  }, { gameInfoCol, user }) => {
+       if (!user) { throw new Error('Authentication Error. Please sign in'); }
 
-    //   const result = await gameInfoCol.updateOne({id: id}, { updatedGame})
-    //   console.log(acknowledged);
-    //   return result.acknowledged;
-    // },
+       const result = await gameInfoCol.updateOne({id: id}, { note, game, solution, title})
+
+       return result.acknowledged;
+       },
 
     deleteGame: async(_, { id }, { gameInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
