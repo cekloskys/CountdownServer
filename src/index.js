@@ -21,13 +21,13 @@ const {
   JWT_SECRET
 } = process.env;
 
-const getToken = (user) => jwt.sign({ id: user._id }, JWT_SECRET, { expiresIn: '1h' });
+const getToken = (user) => jwt.sign({ id: user._id }, JWT_SECRET, {});
 
 const getUserFromToken = async (token, db) => {
   if (!token) { return null }
 
   const tokenData = jwt.verify(token, JWT_SECRET);
-  //console.log(tokenData);
+  console.log("Get User From Token" + tokenData);
   if (!tokenData?.id) {
     return null;
   }
