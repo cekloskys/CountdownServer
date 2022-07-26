@@ -72,6 +72,7 @@ const typeDefs = gql`
    type Tutorial {
       id: String
       title: String
+      uri: String
       images: [String]
    } 
 
