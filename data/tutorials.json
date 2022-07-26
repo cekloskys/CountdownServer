@@ -1,1 +1,50 @@
-[{"_id":{"$oid":"62b2fe8a7223d53685ea90dd"},"id":"3","title":"How to Access Psychotherapy.net"},{"_id":{"$oid":"62b2fe8a7223d53685ea90de"},"id":"0","title":"How to Access Logue Research Tutorials"},{"_id":{"$oid":"62b2fe8a7223d53685ea90df"},"id":"4","title":"How to set-up your Google Scholar preferences"},{"_id":{"$oid":"62b2fe8a7223d53685ea90e0"},"id":"6","title":"How to login to the Logue database"},{"_id":{"$oid":"62b2fe8a7223d53685ea90e1"},"id":"7","title":"How to use the Internet Archive"},{"_id":{"$oid":"62b2fe8a7223d53685ea90e2"},"id":"5","title":"How to Download an Academic Journals Article from the EBSCO database"},{"_id":{"$oid":"62b2fe8a7223d53685ea90e3"},"id":"1","title":"How to Access the Kanopy Streaming Service"},{"_id":{"$oid":"62b2fe8a7223d53685ea90e4"},"id":"2","title":"How to Access Academic Journal Articles from the EBSCO database"}]
+[
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90dd"},
+    "id":"3",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2021/12/How-to-Access-the-Psychotherapy.net-Streaming-Videos.pdf",
+    "title":"How to Access Psychotherapy.net Streaming Videos"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90de"},
+    "id":"0",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2021/12/How-to-Access-the-Library-Research-Tutorials.pdf",
+    "title":"How to Access Logue Research Tutorials"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90df"},
+    "id":"4",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2021/12/Tutorial-Creating-Google-Scholar-preferences.pdf",
+    "title":"How to set-up your Google Scholar preferences"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90e0"},
+    "id":"6",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2021/12/How-to-Login-to-Logue-Databases.pdf",
+    "title":"How to login to the Logue database"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90e1"},
+    "id":"7",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2022/06/Internet-Archive-Tutorial-2.pdf",
+    "title":"How to use the Internet Archive"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90e2"},
+    "id":"5",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2022/05/How-to-Download-an-Academic-Journals-Article-from-EBSCOs-Database-1.pdf",
+    "title":"How to Download an Academic Journals Article from the EBSCO database"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90e3"},
+    "id":"1",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2021/12/How-to-Access-the-Kanopy-Streaming-Service.pdf",
+    "title":"How to Access the Kanopy Streaming Service"
+  },
+  {
+    "_id":{"$oid":"62b2fe8a7223d53685ea90e4"},
+    "id":"2",
+    "uri": "https://library1.chc.edu/wp-content/uploads/2022/05/How-to-Access-EBSCOhost-Academic-Journal-Articles.pdf",
+    "title":"How to Access Academic Journal Articles from the EBSCO database"
+  }
+]
