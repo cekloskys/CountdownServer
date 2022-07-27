@@ -70,10 +70,10 @@ const typeDefs = gql`
   } 
     
    type Tutorial {
+      _id: ID
       id: String
       title: String
       uri: String
-      images: [String]
    } 
 
     type Mutation {
