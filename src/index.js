@@ -87,7 +87,7 @@ const typeDefs = gql`
       createLink(id: String, uri: String, title: String): Boolean!
       deleteLink(id: ID): Boolean!
 
-      createTutorial(id: String, title: String): Boolean!
+      createTutorial(id: String, uri: String, title: String): Boolean!
       deleteTutorial(id: ID): Boolean!
     }
 
@@ -302,9 +302,11 @@ const resolvers = {
     createTutorial: async(_, data, { tutorialInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
       const id = data.id;
+      const uri = data.uri;
       const title = data.title;
        const newTutorialTemplate = {
          id,
+         uri,
          title
        }
        const result = await tutorialInfoCol.insertOne(newTutorialTemplate);
