@@ -11,6 +11,7 @@ const {
   DB_COUNTDOWN,
   COL_COURSEINFO,
   COL_DIVISIONINFO,
+  COL_MINORINFO,
   DB_GAMEDAY,
   COL_GAMEINFO,
   COL_GAMEUSERS,
@@ -52,6 +53,12 @@ const typeDefs = gql`
   type Division {
     code: String
     name: String
+  }
+  
+  type Minor {
+    title: String
+    required: [String]
+    elective: [String]
   }
 
   type Game {
@@ -113,6 +120,7 @@ const typeDefs = gql`
     courseByCredits(credits: [Float]): [Course]
     courseByType(creditTypeCode: [String]): [Course]
     divisions: [Division]
+    minors: [Minor]
 
     games: [Game]
     gameSignedIn: Boolean
@@ -191,6 +199,9 @@ const resolvers = {
     },
     tutorials: (root, data, context) => {
       return context.tutorialInfoCol.find({}).toArray();
+    },
+    minors: (root, data, context) => {
+      return context.minorCol.find({}).toArray();
     },
   },
 
@@ -367,6 +378,7 @@ const start = async () => {
 
         countdownCol,
         divisionCol,
+        minorCol,
 
         gameInfoCol,
         gameUsersCol,
