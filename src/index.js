@@ -347,7 +347,7 @@ const start = async () => {
 
   const countdownCol = client.db(DB_COUNTDOWN).collection(COL_COURSEINFO);
   const divisionCol = client.db(DB_COUNTDOWN).collection(COL_DIVISIONINFO);
-  const minorCol = client.db(DB_COUNTDOWN).collection(COL_MINORINFOINFO);
+  const minorCol = client.db(DB_COUNTDOWN).collection(COL_MINORINFO);
 
   const gameInfoCol = client.db(DB_GAMEDAY).collection(COL_GAMEINFO);
   const gameUsersCol = client.db(DB_GAMEDAY).collection(COL_GAMEUSERS);
