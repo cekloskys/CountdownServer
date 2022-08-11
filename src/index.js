@@ -71,6 +71,7 @@ const typeDefs = gql`
   
   type Link {
     _id: ID
+    id: String
     uri: String
     title: String
   } 
