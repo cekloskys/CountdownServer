@@ -286,7 +286,8 @@ const resolvers = {
 
     createLink: async(_, data, { linkInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      const id = data.id;
+      // const id = data.id;
+      const id = linkInfoCol.find().sort({id:-1}).limit(1);
       const uri = data.uri;
       const title = data.title;
        const newLinkTemplate = {
@@ -312,7 +313,7 @@ const resolvers = {
 
     createTutorial: async(_, data, { tutorialInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      const id = data.id;
+      const id = tutorialInfoCol.find().sort({id:-1}).limit(1);
       const uri = data.uri;
       const title = data.title;
        const newTutorialTemplate = {
