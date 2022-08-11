@@ -287,9 +287,9 @@ const resolvers = {
     createLink: async(_, data, { linkInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
       // const id = data.id;
-      const maxLink = linkInfoCol.find();
+      const maxLink = await linkInfoCol.find();
       console.log(JSON.parse(JSON.stringify(maxLink)));
-      const id = maxLink.id;
+      const id = '7';
       const uri = data.uri;
       const title = data.title;
        const newLinkTemplate = {
