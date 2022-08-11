@@ -288,7 +288,7 @@ const resolvers = {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
       // const id = data.id;
       const maxLink = linkInfoCol.find({},{'_id': 0, 'id': 1}).sort({id:-1}).limit(1);
-      console.log("Max Link " + maxLink);
+      console.log("Max Link " + maxLink.id);
       const id = maxLink.id;
       const uri = data.uri;
       const title = data.title;
@@ -316,7 +316,7 @@ const resolvers = {
     createTutorial: async(_, data, { tutorialInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
       const maxTutorial = tutorialInfoCol.find({},{'_id': 0, 'id': 1}).sort({id:-1}).limit(1);
-      console.log("Max Tutorial " + maxTutorial);
+      console.log("Max Tutorial " + maxTutorial.id);
       const id = maxTutorial.id;
       const uri = data.uri;
       const title = data.title;
