@@ -1,7 +1,8 @@
 const { ApolloServer, gql } = require("apollo-server");
 const { MongoClient, ObjectId } = require("mongodb");
 const bcrypt = require('bcryptjs');
-const jwt = require("jsonwebtoken")
+const jwt = require("jsonwebtoken");
+const crypto = require("crypto");
 
 const dotenv = require("dotenv");
 dotenv.config();
@@ -286,10 +287,10 @@ const resolvers = {
 
     createLink: async(_, data, { linkInfoCol, user }) => {
       if (!user) { throw new Error('Authentication Error. Please sign in'); }
-      const id = data.id;
-      const maxLink = linkInfoCol.find();
-      console.log(JSON.parse(JSON.stringify(maxLink)));
-      // const id = '7';
+      // const id = data.id;
+      //const maxLink = linkInfoCol.find();
+      //console.log(JSON.parse(JSON.stringify(maxLink)));
+      const id = crypto.randomBytes(16).toString('hex');
       const uri = data.uri;
       const title = data.title;
        const newLinkTemplate = {
