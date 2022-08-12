@@ -60,6 +60,7 @@ const typeDefs = gql`
     title: String
     required: [String]
     elective: [String]
+    count: Float
   }
 
   type Game {
